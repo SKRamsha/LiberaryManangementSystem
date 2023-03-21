@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace LiberaryManangementSystem
 {
-    public partial class uc_std : UserControl
+    public  partial class uc_std : UserControl
     {
         public uc_std()
         {
